@@ -13,4 +13,6 @@ export function render(){
   );
 };
 
+// BORED OF THIS LAB SO IM STOPPING
+
 store.dispatch({type: '@@INIT'});
